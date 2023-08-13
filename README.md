@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saadthenexus
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C language
+- 📫 How to reach me Email: hasibulkarimsaad@gmail.com
